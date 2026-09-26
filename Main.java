@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Practica de colaboracion en GitHub");
+        System.out.println("Cambio en la rama
+");
     }
 }
